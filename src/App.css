@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+body{
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.font{
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+#Button, #Fab{
+  outline: none;
+  background-color: #344955;
+  color: #ffffff;
+}

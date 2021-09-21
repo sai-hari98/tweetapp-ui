@@ -1,0 +1,11 @@
+.drawer-width{
+    width:300px;
+    font-size:18px;
+}
+
+@media(max-width:500px){
+    .drawer-width{
+        width:250px;
+        font-size:15px;
+    }
+}

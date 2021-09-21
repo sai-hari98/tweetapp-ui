@@ -1,0 +1,11 @@
+.replyComponent{
+    background-color:#E0E0E0;
+    font-size: 0.8em;
+}
+.nilOutline{
+    outline: none!important;
+}
+.cardShadow{
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 3px 3px 0 0;
+}

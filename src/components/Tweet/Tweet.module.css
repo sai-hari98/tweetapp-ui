@@ -1,0 +1,29 @@
+.cardShadow{
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 3px 3px 0 0;
+}
+
+.postBorder{
+    border-bottom: 1px solid #8C92AC;
+}
+
+.nilOutline{
+    outline: none!important;
+}
+
+.replyTextAreaColor{
+    background-color: #E0E0E0;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.textAreaHeight{
+    height: 100%;
+    width: 100%;
+    resize: none;
+    outline: none!important;
+    border: 0px;
+}
+
+.contentColHeight{
+    height: 7vh;
+}

@@ -1,0 +1,12 @@
+.menuButton{
+    margin-right: 1rem;
+}
+
+.noOutline{
+    outline: none;
+}
+
+.navbarColor{
+    background-color: #344955;
+    color: #ffffff;
+}

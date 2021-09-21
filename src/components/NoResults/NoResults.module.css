@@ -1,0 +1,13 @@
+.background{
+    background-image: url('../../assets/not-found-64px.png');
+    height: 64px;
+    width: 64px;
+}
+
+@media (max-width: 500px){
+    .background{
+        background-image: url('../../assets/not-found-32px.png');
+        height: 32px;
+        width: 32px;
+    }
+}
