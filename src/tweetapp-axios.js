@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const tweetappAxios = axios.create();
 
-tweetappAxios.defaults.baseURL = "http://localhost:8080/api/v1.0/tweets"
+tweetappAxios.defaults.baseURL = "http://tweetapp-api-1032976256.us-east-2.elb.amazonaws.com/api/v1.0/tweets"
 
 tweetappAxios.interceptors.response.use(undefined, error => {
     console.log('Invoking interceptor...', error);
